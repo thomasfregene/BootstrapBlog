@@ -1,0 +1,15 @@
+body{
+    /* remove padding and margin from all html tags */
+    padding: 0;
+    margin: 0;
+}
+
+.lightblue{
+    background-color: lightseagreen;
+}
+
+.social-bar{
+    text-align: right;
+    width: 100%;
+    height: 3%;
+}
